@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Contenido
 Comprender conceptos básicos y avanzados de la seguridad en infraestructuras de redes tanto LAN como WAN, comprendiendo la naturaleza de los ataques más comunes en este tipo de redes (capa 2) y utilizando diversos dispositivos y tecnologías de seguridad perimetral como Firewalls, IPS, Redes Privadas Virtuales, entre otros; para garantizar los principios básicos de la ciberseguridad:
  
@@ -33,7 +32,3 @@ Comprender conceptos básicos y avanzados de la seguridad en infraestructuras de
 
     ![](/Practic_4_Seguridad2/image-20.png)
         ![](/Practic_4_Seguridad2/image.png)
-=======
-# Seguridad_Redes
-Contiene conceptos básicos y avanzados de la seguridad en infraestructuras de redes tanto LAN y WAN, comprendiendo ataques más comunes a nivel de capa 2. También contiene ejercicios prácticos incluyendo a OPNSense
->>>>>>> 568f3d802eb7cb11caea9efc0af31d38eaf3e7b0
